@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes>
+<!--
+<vType id="car" sigma="0.0" vClass="passenger" guiShape="passenger" lcStrategic="0.0" lcCooperative="0.0" emergencyDecel="9" />
+-->
+<vType id="car" sigma="0.0" vClass="passenger" guiShape="passenger"  emergencyDecel="9" />
+<route  id="route0" edges="gneE0 gneE1"/>
+<route  id="route1" edges="gneE0 gneE2" />
+<route  id="route2" edges="gneE0 gneE3" />
+
+<route  id="route3" edges="gneE7 gneE3" />
+<route  id="route4" edges="gneE7 gneE2" />
+<route  id="route5" edges="gneE7 gneE5" />
+
+<route  id="route6" edges="gneE6 gneE5" />
+<route  id="route7" edges="gneE6 gneE3" />
+<route  id="route8" edges="gneE6 gneE1" />
+
+<route  id="route9" edges="gneE8 gneE2" />
+<route  id="route10" edges="gneE8 gneE1" />
+<route  id="route11" edges="gneE8 gneE5" />
+
+
+     <flow type="car" id="flow1_1" begin="00" end="41" period="4" route="route0" departLane="1" />
+     <flow type="car" id="flow6_1" begin="00" end="41" period="4" route="route5" departLane="1" />
+     <flow type="car" id="flow1" begin="2" end="100" period="2" route="route0" departLane="0" />
+     <flow type="car" id="flow6" begin="2" end="100" period="2" route="route5" departLane="0" />
+
+
+    <flow type="car" id="flow41" begin="42" end="100" period="42" route="route1" departLane="1" color="white" />
+    <flow type="car" id="flow61" begin="42" end="100" period="42" route="route3" departLane="1" color="white" />
+    <flow type="car" id="flow42" begin="43" end="100" period="43" route="route1" departLane="1" color="white" />
+    <flow type="car" id="flow62" begin="43" end="100" period="43" route="route3" departLane="1" color="white" />
+    <flow type="car" id="flow43" begin="44" end="100" period="44" route="route1" departLane="1" color="white" />
+    <flow type="car" id="flow63" begin="44" end="100" period="44" route="route3" departLane="1" color="white" />
+    <flow type="car" id="flow64" begin="45" end="100" period="45" route="route3" departLane="1" color="white" />
+    <flow type="car" id="flow44" begin="45" end="100" period="45" route="route1" departLane="1" color="white" />
+
+
+    <flow type="car" id="flow1_2" begin="46" end="80" period="3" route="route0" departLane="1" />
+    <flow type="car" id="flow6_2" begin="46" end="80" period="3" route="route5" departLane="1" />
+
+
+   <!-- <flow type="car" id="flow6" begin="0" end="100" period="1" route="route5" />-->
+
+</routes>

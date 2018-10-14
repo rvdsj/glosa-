@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes>
+<!--
+<vType id="car" sigma="0.0" vClass="passenger" guiShape="passenger" lcStrategic="0.0" lcCooperative="0.0" emergencyDecel="9" />
+-->
+<vType id="car" sigma="0.0" vClass="passenger" guiShape="passenger"   emergencyDecel="9" />
+<route  id="route0" edges="gneE0 gneE1"/>
+<route  id="route1" edges="gneE0 gneE2" />
+<route  id="route2" edges="gneE0 gneE3" />
+
+<route  id="route3" edges="gneE7 gneE3" />
+<route  id="route4" edges="gneE7 gneE2" />
+<route  id="route5" edges="gneE7 gneE5" />
+
+<route  id="route6" edges="gneE6 gneE5" />
+<route  id="route7" edges="gneE6 gneE3" />
+<route  id="route8" edges="gneE6 gneE1" />
+
+<route  id="route9" edges="gneE8 gneE2" />
+<route  id="route10" edges="gneE8 gneE1" />
+<route  id="route11" edges="gneE8 gneE5" />
+
+<flow type="car" id="flow1" begin="0" end="300" vehsPerHour="1000" route="route0" departLane="random" />
+
+
+
+
+<!--
+<flow type="car" id="flow4" begin="0" end="300" period="15" route="route3" />
+<flow type="car" id="flow5" begin="0" end="300" period="30" route="route4" />
+!-->
+<flow type="car" id="flow6" begin="0" end="300" vehsPerHour="800" route="route5" />
+
+
+
+    <flow type="car" id="flow2" begin="0" end="300" vehsPerHour="200" route="route1" departLane="1" color="white" />
+
+</routes>

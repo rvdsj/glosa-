@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<routes>
+	<vType emergencyDecel="9" guiShape="passenger" id="car" sigma="0.0" vClass="passenger"/>
+	<route edges="gneE0 gneE1" id="route0"/>
+	<route edges="gneE0 gneE2" id="route1"/>
+	<route edges="gneE0 gneE3" id="route2"/>
+	<route edges="gneE7 gneE3" id="route3"/>
+	<route edges="gneE7 gneE2" id="route4"/>
+	<route edges="gneE7 gneE5" id="route5"/>
+	<route edges="gneE6 gneE5" id="route6"/>
+	<route edges="gneE6 gneE3" id="route7"/>
+	<route edges="gneE6 gneE1" id="route8"/>
+	<route edges="gneE8 gneE2" id="route9"/>
+	<route edges="gneE8 gneE1" id="route10"/>
+	<route edges="gneE8 gneE5" id="route11"/>
+	<flow begin="0" departLane="1" end="200" id="straight1" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight2" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight3" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight4" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight5" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight6" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight7" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight8" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight9" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight10" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight11" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left1" probability="0.0166666666667" route="route1" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left2" probability="0.0166666666667" route="route1" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left3" probability="0.0166666666667" route="route1" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left4" probability="0.0166666666667" route="route1" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane1" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane2" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane3" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane4" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane5" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane6" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane7" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane8" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane9" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane10" probability="0.0166666666667" route="route0" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite1" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite2" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite3" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite4" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite5" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite6" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite7" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite8" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite9" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" departLane="1" end="200" id="straight_opposite10" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left_opposite1" probability="0.0192307692308" route="route3" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left_opposite2" probability="0.0192307692308" route="route3" type="car"/>
+	<flow begin="0" color="white" departLane="1" end="200" id="left_opposite3" probability="0.0192307692308" route="route3" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane_opposite1" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane_opposite2" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane_opposite3" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane_opposite4" probability="0.0192307692308" route="route5" type="car"/>
+	<flow begin="0" color="blue" departLane="0" end="200" id="rightlane_opposite5" probability="0.0192307692308" route="route5" type="car"/>
+</routes>

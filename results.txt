@@ -1,0 +1,265 @@
+gap = 4
+number_stright_left_lane=10
+number_left_turn_left_lane=4
+number_right_lane=6
+
+Random flow, Glosa only, Glosa+
+Travel time  117.931941691   112.498466413   106.934288883
+Emission  312.04637274   279.413818827   256.067943051
+Random flow, Glosa only, Glosa+
+Travel time  118.371852355   115.588901778   119.662158024
+Emission  308.79265429   271.351687832   289.595513053
+Random flow, Glosa only, Glosa+
+Travel time  112.533520767   111.950582731   96.618553891
+Emission  295.992366954   274.007256829   233.000940334
+Random flow, Glosa only, Glosa+
+Travel time  102.45879493   106.941668959   108.683805645
+Emission  269.535960179   265.595412537   273.351318003
+Random flow, Glosa only, Glosa+
+Travel time  121.576792491   116.782680515   114.348262547
+Emission  312.98386487   280.932466752   274.055490285
+
+Random flow, Glosa only, Glosa+
+Travel time  149.359676865   114.377358301   114.048898879
+Emission  397.395906925   273.116532168   266.068403304
+Random flow, Glosa only, Glosa+
+Travel time  119.780927703   115.709204599   112.316797136
+Emission  316.04246752   272.577640869   266.783394319
+Random flow, Glosa only, Glosa+
+Travel time  116.213397189   123.133153057   107.269946275
+Emission  304.383830024   288.302368834   263.406893494
+Random flow, Glosa only, Glosa+
+Travel time  118.429198773   111.19854186   107.652238578
+Emission  306.296818764   273.784877467   263.06247293
+Random flow, Glosa only, Glosa+
+Travel time  120.502135474   131.560253118   105.895297063
+Emission  310.971045541   313.667318539   263.142016961
+
+gap = 4
+number_stright_left_lane=10
+number_left_turn_left_lane=3
+number_right_lane=6
+
+Random flow, Glosa only, Glosa+
+Travel time  149.359676865   114.377358301   114.048898879
+Emission  397.395906925   273.116532168   266.068403304
+Random flow, Glosa only, Glosa+
+Travel time  119.780927703   115.709204599   112.316797136
+Emission  316.04246752   272.577640869   266.783394319
+Random flow, Glosa only, Glosa+
+Travel time  116.213397189   123.133153057   107.269946275
+Emission  304.383830024   288.302368834   263.406893494
+Random flow, Glosa only, Glosa+
+Travel time  118.429198773   111.19854186   107.652238578
+Emission  306.296818764   273.784877467   263.06247293
+Random flow, Glosa only, Glosa+
+Travel time  120.502135474   131.560253118   105.895297063
+Emission  310.971045541   313.667318539   263.142016961
+
+
+
+Random flow, Glosa only, Glosa+
+Travel time  140.750210901   107.085111846   98.7411858535
+Emission  373.321938518   266.250807357   247.357937376
+Random flow, Glosa only, Glosa+
+Travel time  110.647418608   117.791249698   103.796741328
+Emission  290.252101485   282.135065448   253.983427502
+Random flow, Glosa only, Glosa+
+Travel time  110.303286584   110.81167314   118.609064215
+Emission  291.994178647   270.507994552   293.24521313
+Random flow, Glosa only, Glosa+
+Travel time  120.771878456   136.810624144   115.688291706
+Emission  318.330270698   303.075307267   274.405814145
+Random flow, Glosa only, Glosa+
+Travel time  117.172611329   114.039684217   106.445550239
+Emission  306.918287091   269.568360649   264.086862508
+
+gap = 4
+number_stright_left_lane=10
+number_left_turn_left_lane=5
+number_right_lane=7
+
+Travel time  133.486154035   100.384222358   101.428775259
+Emission  353.872667017   251.165922127   253.801331317
+Random flow, Glosa only, Glosa+
+Travel time  102.406793295   117.249986771   101.738973403
+Emission  268.051207652   272.072645484   249.942696159
+Random flow, Glosa only, Glosa+
+Travel time  114.883180259   104.442038231   108.518416172
+Emission  302.709685731   248.772733512   271.457533674
+Random flow, Glosa only, Glosa+
+Travel time  100.846090544   121.899560444   95.6719642347
+Emission  265.484152063   285.248709827   230.349515605
+Random flow, Glosa only, Glosa+
+Travel time  119.952170577   112.384024694   116.986343939
+Emission  314.641382159   274.47183759   265.985699394
+
+Travel time  143.581668818   124.537710011   117.320218558
+Emission  383.019120864   296.194615832   271.55053258
+Random flow, Glosa only, Glosa+
+Travel time  111.465731148   110.585427888   110.562113703
+Emission  292.903101345   265.110143968   268.523015289
+Random flow, Glosa only, Glosa+
+Travel time  124.789110508   124.446867801   106.006242444
+Emission  328.365511549   283.755218265   264.886324746
+Random flow, Glosa only, Glosa+
+Travel time  111.632206644   103.175292203   100.639343076
+Emission  291.877543871   257.815303929   249.554453125
+Random flow, Glosa only, Glosa+
+Travel time  118.128776992   124.020516546   113.816396464
+Emission  302.602829277   286.658840914   269.589512813
+
+gap = 6
+number_stright_left_lane=11
+number_left_turn_left_lane=4
+number_right_lane=10
+
+Random flow, Glosa only, Glosa+
+Travel time  112.300837426   114.730892429   102.86686481
+Emission  299.641215576   265.8908485   246.366677771
+Random flow, Glosa only, Glosa+
+Travel time  105.549330858   124.201769577   113.361363642
+Emission  276.402757842   290.815167743   268.468434829
+Random flow, Glosa only, Glosa+
+Travel time  106.807308684   127.234740717   113.201103069
+Emission  276.446755825   290.323738727   268.888594186
+Random flow, Glosa only, Glosa+
+Travel time  103.56635   103.278944535   101.265153268
+Emission  267.943386381   250.112838926   245.742518239
+Random flow, Glosa only, Glosa+
+Travel time  114.605592196   114.903099702   107.604417171
+Emission  300.376526862   286.909978819   263.210997826
+
+Random flow, Glosa only, Glosa+
+Travel time  132.456913071   126.751666932   101.369701938
+Emission  351.413997103   296.170600802   249.133746661
+Random flow, Glosa only, Glosa+
+Travel time  116.54152054   101.605992225   113.752450371
+Emission  304.426358449   239.221639995   247.808607061
+Random flow, Glosa only, Glosa+
+Travel time  126.028113121   107.939976001   116.128914025
+Emission  331.895070567   255.283053371   278.580052963
+Random flow, Glosa only, Glosa+
+Travel time  121.799189578   115.432497288   106.873695227
+Emission  315.736519623   262.092259348   259.434892982
+Random flow, Glosa only, Glosa+
+Travel time  122.765690734   126.500775179   101.187905484
+Emission  320.779499961   296.529245615   236.397026786
+
+gap = 4
+number_stright_left_lane=10
+number_left_turn_left_lane=3
+number_right_lane=6
+
+andom flow, Glosa only, Glosa+
+Travel time  131.542587491   115.850617579   108.358082276
+Emission  347.383616431   284.322455284   249.871900017
+Random flow, Glosa only, Glosa+
+Travel time  111.852270793   131.871093291   107.082682774
+Emission  292.438332478   308.879605789   263.840749148
+Random flow, Glosa only, Glosa+
+Travel time  108.395576582   117.426298931   113.474260194
+Emission  284.842059327   282.601099617   277.261850395
+Random flow, Glosa only, Glosa+
+Travel time  112.467413586   102.461383181   104.708967296
+Emission  289.806047127   254.459247555   259.876668738
+Random flow, Glosa only, Glosa+
+Travel time  120.562874911   108.604387982   115.871136693
+Emission  315.823605814   260.993200107   266.150563439
+
+Travel time  142.517868019   113.979384592   113.997340793
+Emission  377.477628824   273.291247798   277.505621659
+Random flow, Glosa only, Glosa+
+Travel time  109.606819509   122.654928613   105.063784814
+Emission  288.775053463   297.862638868   258.127507992
+Random flow, Glosa only, Glosa+
+Travel time  130.917329533   114.528197365   111.678345339
+Emission  338.956078624   277.059300762   274.236490859
+Random flow, Glosa only, Glosa+
+Travel time  104.221353593   107.871313556   110.841146378
+Emission  273.354660405   262.377199341   257.459778419
+Random flow, Glosa only, Glosa+
+Travel time  120.787118407   121.105597533   109.486499517
+Emission  315.464397814   288.386576875   263.574260182
+
+
+gap = 3
+number_stright_left_lane=11
+number_left_turn_left_lane=3
+number_right_lane=10
+
+no of simulation_steps  458
+Random flow, Glosa only, Glosa+
+Travel time  145.999729423   113.255761421   111.693718354
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  103.515534591   117.09943338   111.325709326
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  131.249104083   122.141012186   110.52394692
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  120.111666526   108.384489943   111.993389027
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  129.716027339   102.759700146   108.841655167
+Emission  0   0   0
+
+no of simulation_steps  542
+Random flow, Glosa only, Glosa+
+Travel time  139.449973351   117.054665071   114.738247947
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  96.8696426541   113.593792952   112.646234687
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  106.535436076   114.509103286   119.388032445
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  130.937794649   97.7434966765   94.7953866086
+Emission  0   0   0
+Random flow, Glosa only, Glosa+
+Travel time  109.399382036   119.129729839   130.184997299
+Emission  0   0   0
+
+gap = 10
+number_stright_left_lane=11
+number_left_turn_left_lane=4
+number_right_lane=10
+
+no of simulation_steps  452
+Random flow, Glosa only, Glosa+
+Travel time  143.426321398   118.826880282   118.63331267
+Emission  380.656967234   281.851009409   283.3605309
+Random flow, Glosa only, Glosa+
+Travel time  120.173150644   120.487616521   106.76148718
+Emission  314.041672811   275.841168928   258.372926309
+Random flow, Glosa only, Glosa+
+Travel time  118.297623222   122.085883343   108.893834772
+Emission  307.093300232   291.363311904   257.354336687
+Random flow, Glosa only, Glosa+
+Travel time  147.894100279   134.224915347   119.513542147
+Emission  380.125207679   302.157399443   268.840114817
+Random flow, Glosa only, Glosa+
+Travel time  116.460430959   120.432247878   102.816495767
+Emission  305.53935135   277.632389143   232.980004583
+
+
+no of simulation_steps  457
+Random flow, Glosa only, Glosa+
+Travel time  134.925743918   119.207798689   112.758356854
+Emission  358.427824767   279.162165944   253.361873402
+Random flow, Glosa only, Glosa+
+Travel time  111.674239523   123.362476947   98.6843531479
+Emission  291.460749031   277.822317637   235.666345825
+Random flow, Glosa only, Glosa+
+Travel time  112.279671499   116.70107034   107.552016161
+Emission  295.187289305   282.817611125   265.136533442
+Random flow, Glosa only, Glosa+
+Travel time  120.453639273   113.312643341   117.834198938
+Emission  312.326113301   270.576976506   269.266793597
+Random flow, Glosa only, Glosa+
+Travel time  118.245720574   118.787782959   102.963266004
+Emission  308.430520419   284.100358201   249.157616229
+
+
